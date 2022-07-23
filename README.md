@@ -4,7 +4,7 @@
 ## Analysis and Challenges 
 ### Analysis of Outcomes Based on Launch Date
 Below is a graph of the outcomes based on launch date of the kickstarter
-![Graph of Outcomes](https://github.com/Andrew-E-Walters/Kickstarting-With-Excel-Project/blob/main/Outcomes%20Based%20on%20Launch%20Date.png)
+![Graph of Outcomes](https://github.com/Andrew-E-Walters/Kickstarting-With-Excel-Project/blob/main/Outcomes_vs_Goals.png)
 ### Analsys of Outcomes Based on Goals
 ![Graph of Outcomes Based on Goals](https://github.com/Andrew-E-Walters/Kickstarting-With-Excel-Project/blob/main/KickStarter%20Pivot.png)
 ### Challenges and Difficulties Encountered 
