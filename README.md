@@ -10,7 +10,8 @@ The first way that we filtered the data was on the Parent Category *Theater*. Af
 ![Graph of Outcomes](https://github.com/Andrew-E-Walters/Kickstarting-With-Excel-Project/blob/main/Theater_Outcomes_vs_Launch.png)
 ## Comments on Graph
 ### Analysis of Outcomes Based on Goals
-The next way we wanted to analyze the data was by looking at the outcome of a Kickstarter project based on the fundrasing goal. Each Kickstarter has its own Goal of $ that it is trying to achive. The data was filtred by looking at the count of each outcome based on the goal amount. The goal amount was broken out into increments of $5000. Below is the a graph of the outcomes of plays based on the fundraising goals. 
+The next way we wanted to analyze the data was by looking at the outcome of a Kickstarter project based on the fundrasing goal. Each Kickstarter has its own Goal of $ that it is trying to achive. The data was filtred by looking at the count of each outcome based on the goal amount. The goal amount was broken out into increments of $5000.
+#### Below is the a graph of the outcomes of plays based on the fundraising goals
 ![Graph of Outcomes Based on Goals](https://github.com/Andrew-E-Walters/Kickstarting-With-Excel-Project/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered 
 There were some challenges and difficulties encountered in this Kickstarter project. One challenge was to determine what ways the data should be looked at. If the data we looked at did not give any insight into what leads to a Kickstarts success or failure then it was of little to no use. 
